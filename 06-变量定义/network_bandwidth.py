@@ -9,6 +9,7 @@ print(bandwidth/ratio)
 
 
 
+
 #注意点
 #变量值可以多次赋值。
 #a=3 b=a b=3
